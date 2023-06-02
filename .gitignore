@@ -17,7 +17,7 @@
 .env.production.local
 
 # docs
-/docs/*
+
 
 # config
 navbarItems.js
